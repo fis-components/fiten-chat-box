@@ -1,7 +1,7 @@
 {
     "name": "fiten-chat-box",
     "description": "聊天盒子",
-    "repos": "https://github.com/2betop/placeholder.git",
+    "repos": "https://github.com/tb-component/mobile-scale.git",
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
@@ -14,5 +14,5 @@
         "react-list": "^0.7.11",
         "react-tappable": "^0.8.0"
     },
-    "version": "1.0.8"
+    "version": "1.0.9"
 }
